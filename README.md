@@ -1,4 +1,4 @@
-![salute](https://readme-typing-svg.demolab.com/?lines=Senior%20Foftware%20Engineer%20|%20Data%20Scientist)
+![salute](https://readme-typing-svg.demolab.com/?lines=Senior%20SWE%20|%20Data%20Scientist)
 
 *(mi-guel)*
 
