@@ -1,4 +1,4 @@
-![salute](https://readme-typing-svg.demolab.com/?lines=HI%20there%20👋,%20I'm%20Mi-guel)
+![salute](https://readme-typing-svg.demolab.com/?lines=Senior%20Foftware%20Engineer%20|%20Data%20Scientist)
 
 *(mi-guel)*
 
