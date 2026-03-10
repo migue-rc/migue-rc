@@ -2,7 +2,7 @@
 
 *(mi-guel)*
 
-[![Miguel Stats](https://awesome-github-stats.azurewebsites.net/user-stats/miguebarbell?cardType=level-alternate&preferLogin=false&theme=radical)](https://www.linkedin.com/in/rmigue)
+[![Miguel Stats](https://awesome-github-stats.azurewebsites.net/user-stats/migue-rc?cardType=level-alternate&preferLogin=false&theme=radical)](https://www.linkedin.com/in/rmigue)
 
  
 #### Recognize all the faces in a picture and set a score to the smile.
@@ -14,4 +14,4 @@
 ### And a height stimator, augmented reality with aruco tags
 <img src="media/gifh.gif" alt="height stimator" width="420px;"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguebarbell&theme=radical" alt="Miguel's GitHub Achievements" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migueba-rc&theme=radical" alt="Miguel's GitHub Achievements" />
