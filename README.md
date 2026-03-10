@@ -14,4 +14,4 @@
 ### And a height stimator, augmented reality with aruco tags
 <img src="media/gifh.gif" alt="height stimator" width="420px;"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migueba-rc&theme=radical" alt="Miguel's GitHub Achievements" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migue-rc&theme=radical" alt="Miguel's GitHub Achievements" />
