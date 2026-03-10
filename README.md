@@ -4,6 +4,10 @@
 
 [![Miguel Stats](https://awesome-github-stats.azurewebsites.net/user-stats/migue-rc?cardType=level-alternate&preferLogin=false&theme=radical)](https://www.linkedin.com/in/rmigue)
 
+🔗 **[Lung Cancer Risk Predictor](https://migue-rc.github.io/lung-cancer-risk/)**
+
+![Live Demo Lung Cancer Risk Preview](https://github.com/migue-rc/lung-cancer-risk/raw/refs/heads/main/frontend/public/lung-cancer-risk-demo.gif)
+
  
 #### Recognize all the faces in a picture and set a score to the smile.
 <img src="media/gifs.gif" alt="sympathi app" width="420px;"/>
