@@ -8,6 +8,9 @@
 
 ![Live Demo Lung Cancer Risk Preview](https://github.com/migue-rc/lung-cancer-risk/raw/refs/heads/main/frontend/public/lung-cancer-risk-demo.gif)
 
+🔗 **[Auto Insurance & Telematics Analytics](https://github.com/migue-rc/car-insurance/)**
+
+![Interactive Flow Chart](https://github.com/migue-rc/car-insurance/blob/main/charts/interactive-flow-chart.gif)
  
 #### Recognize all the faces in a picture and set a score to the smile.
 <img src="media/gifs.gif" alt="sympathi app" width="420px;"/>
