@@ -2,7 +2,7 @@
 
 # Hey, I'm Miguel 👋
 
-![Things I like building](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=760&lines=I+build+things+with+data;Maps%2C+models+and+mobile+apps;Sometimes+Rust+gets+involved)
+![Things I like building](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=760&lines=I+build+things+with+data;Maps%2C+models+and+mobile+apps;Sometimes+satellites+gets+involved)
 
 *(mi-guel)*
 
